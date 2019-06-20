@@ -1,5 +1,8 @@
 # bostongene_test_task
 Golang server which counts md5 hash of file by its url.
+Can be tested by launching test.sh.
+To run server, execute:
+`go run server.go`
 
 Usage example:
 
